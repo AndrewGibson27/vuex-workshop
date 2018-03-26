@@ -1,0 +1,1 @@
+A fork of [Blake Newman's excellent vuex-workshop](https://github.com/blake-newman/vuex-workshop) in its completed state. I decided to fork this in case he ever decides to delete it or significantly modify it.
